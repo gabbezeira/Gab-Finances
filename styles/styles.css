@@ -218,12 +218,12 @@ header a{
   opacity: 0.8;
 }
 
-@media (max-width: 375px) {
+@media (max-width: 480px) {
   #transaction{
     margin-top: 30px !important;
   }
   .web {
-    display: none;
+    display: none !important;
   }
 }
 
