@@ -1,0 +1,19 @@
+<svg width="173" height="40" xmlns="http://www.w3.org/2000/svg" fill="none">
+ <defs>
+  <clipPath id="clip0">
+   <rect id="svg_1" x="6.85715" y="6.85714" fill="white" height="27.4286" width="27.4286"/>
+  </clipPath>
+ </defs>
+ <g>
+  <title>Layer 1</title>
+  <path id="svg_9" fill="#5429cc" d="m34.1422,5.6655c-3.7775,-3.7775 -8.8,-5.85781 -14.1422,-5.85781c-5.3422,0 -10.36469,2.08031 -14.14219,5.85781c-3.7775,3.7775 -5.85781,8.79999 -5.85781,14.14219c0,5.3422 2.08039,10.3646 5.85781,14.1422c3.77742,3.7776 8.79999,5.8578 14.14219,5.8578c5.3422,0 10.3647,-2.0803 14.1422,-5.8578c3.7775,-3.7775 5.8578,-8.8 5.8578,-14.1422c0,-5.3422 -2.0804,-10.36461 -5.8578,-14.14219z"/>
+  <g id="svg_10" clip-path="url(#clip0)">
+   <path id="svg_11" stroke-linejoin="round" stroke-linecap="round" stroke-width="2" stroke="white" d="m20.5714,8l0,25.1429"/>
+   <path id="svg_12" stroke-linejoin="round" stroke-linecap="round" stroke-width="2" stroke="white" d="m26.2857,12.5714l-8.5714,0c-1.0609,0 -2.0783,0.4215 -2.8284,1.1716c-0.7502,0.7501 -1.1716,1.7676 -1.1716,2.8284c0,1.0609 0.4214,2.0783 1.1716,2.8285c0.7501,0.7501 1.7675,1.1715 2.8284,1.1715l5.7143,0c1.0608,0 2.0783,0.4215 2.8284,1.1716c0.7502,0.7502 1.1716,1.7676 1.1716,2.8284c0,1.0609 -0.4214,2.0783 -1.1716,2.8285c-0.7501,0.7501 -1.7676,1.1715 -2.8284,1.1715l-9.7143,0"/>
+  </g>
+  <text font-weight="bold" xml:space="preserve" text-anchor="start" font-family="'Comfortaa'" font-size="18" stroke-width="0" id="svg_14" y="25.81724" x="42.14428" fill="#ffffff">Gab</text>
+  <text transform="matrix(1 0 0 1 0 0)" font-weight="bold" xml:space="preserve" text-anchor="start" font-family="'Comfortaa'" font-size="18" stroke-width="0" id="svg_15" y="25.81724" x="80.61348" fill="#5429cc">.</text>
+  <text font-weight="bold" xml:space="preserve" text-anchor="start" font-family="'Comfortaa'" font-size="18" id="svg_16" y="25.81724" x="85.61343" stroke-width="0" fill="#ffffff">Finance</text>
+  <text font-weight="bold" xml:space="preserve" text-anchor="start" font-family="'Comfortaa'" font-size="18" id="svg_17" y="27.35569" x="161.95871" stroke-width="0" fill="#5429cc">$</text>
+ </g>
+</svg>
