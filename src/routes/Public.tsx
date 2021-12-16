@@ -5,7 +5,7 @@ import { Dashboard } from "../pages/Dashboard";
 import { Header } from "../components/Header";
 import { NewTransactionModal } from "../components/NewTransactionModal";
 
-export function Private() {
+export function Public() {
   const [
     isNewTransactionModalOpen,
     setIsNewTransactionModalOpen
@@ -33,3 +33,4 @@ export function Private() {
     </BrowserRouter>
   );
 }
+
