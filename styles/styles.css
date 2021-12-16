@@ -4,10 +4,10 @@
   --red: #E83F5B;
   --transition-delay: 0.4s;
   --bg-header: #070707;
-  --bg-color: #111111;
+  --bg-color: #161616;
   --font-color: #ececec;
   --primary-color: #5329CC;
-  --secondary-color: #141414;
+  --secondary-color: #1b1b1b;
   --cancel-color: var(--red);
 }
 
@@ -231,8 +231,8 @@ header a{
 	position:fixed;
 	width:60px;
 	height:60px;
-	bottom:40px;
-	right:40px;
+	bottom:60px;
+	right:10px;
 	background-color:var(--primary-color);
 	color:#FFF;
 	border-radius:50px;
