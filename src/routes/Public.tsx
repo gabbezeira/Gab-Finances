@@ -1,14 +1,11 @@
 import { BrowserRouter, Switch, Route, Redirect } from "react-router-dom";
-
-import { Login } from "../pages/Login";
-import { SignUp } from "../pages/SignUp";
+import { Dashboard } from "../pages/Dashboard";
 
 export function Public() {
   return (
     <BrowserRouter>
       <Switch>
-        <Route exact path="/" component={Login} />
-        <Route path="/signup" component={SignUp} />
+        <Route exact path="/" component={Dashboard} />
         <Redirect from="*" to="/" />
       </Switch>
     </BrowserRouter>
