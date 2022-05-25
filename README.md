@@ -2,7 +2,7 @@
 
 # Gab Finance
 
-Aplicação desenvolvida durante a semana discover da Rockeat Seat
+Aplicação desenvolvida durante a maratona Discover da RockeatSeat.
 
 ## 🔧 Tipo de Projeto
 
