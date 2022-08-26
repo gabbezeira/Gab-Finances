@@ -2,7 +2,7 @@
 
 # Gab Finance
 
-Aplicação desenvolvida durante a maratona Discover da RockeatSeat.
+Aplicação desenvolvida durante a maratona Discover da RockeatSeat. (https://gabfinances.netlify.app)
 
 ## 🔧 Tipo de Projeto
 
